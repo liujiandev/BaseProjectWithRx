@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--HeaderView-->
+    <declare-styleable name="HeaderView">
+        <attr name="headerViewLeftIcon" format="reference" />
+        <attr name="headerViewLeftText" format="string" />
+        <attr name="headerViewLeftTextSize" format="dimension" />
+        <attr name="headerViewLeftTextColor" format="color" />
+        <attr name="headerViewRightIcon" format="reference" />
+        <attr name="headerViewRightIcon2" format="reference" />
+        <attr name="headerViewRightText" format="string" />
+        <attr name="headerViewRightTextSize" format="dimension" />
+        <attr name="headerViewRightTextColor" format="color" />
+        <attr name="headerViewMidIcon" format="reference" />
+        <attr name="headerViewMidText" format="string" />
+        <attr name="headerViewMidTextSize" format="dimension" />
+        <attr name="headerViewMidTextColor" format="color" />
+        <attr name="headerViewMidBottomText" format="string" />
+        <attr name="headerViewMidBottomTextSize" format="dimension" />
+        <attr name="headerViewMidBottomTextColor" format="color" />
+    </declare-styleable>
+</resources>
