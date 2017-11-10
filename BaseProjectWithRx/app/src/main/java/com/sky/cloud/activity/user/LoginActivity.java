@@ -13,7 +13,7 @@ import com.sky.cloud.presenter.impl.LoginPresenter;
 import com.sky.cloud.uiView.ILoginActivityView;
 
 /**
- * 登录
+ * 登录界面
  */
 public class LoginActivity extends MVPActivity<ILoginPresenter> implements ILoginActivityView
 {
